@@ -1,0 +1,14 @@
+D:\.NET\p4\p4\bin\Debug\net10.0\p4.exe
+D:\.NET\p4\p4\bin\Debug\net10.0\p4.deps.json
+D:\.NET\p4\p4\bin\Debug\net10.0\p4.runtimeconfig.json
+D:\.NET\p4\p4\bin\Debug\net10.0\p4.dll
+D:\.NET\p4\p4\bin\Debug\net10.0\p4.pdb
+D:\.NET\p4\p4\obj\Debug\net10.0\p4.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\p4\p4\obj\Debug\net10.0\p4.AssemblyInfoInputs.cache
+D:\.NET\p4\p4\obj\Debug\net10.0\p4.AssemblyInfo.cs
+D:\.NET\p4\p4\obj\Debug\net10.0\p4.csproj.CoreCompileInputs.cache
+D:\.NET\p4\p4\obj\Debug\net10.0\p4.dll
+D:\.NET\p4\p4\obj\Debug\net10.0\refint\p4.dll
+D:\.NET\p4\p4\obj\Debug\net10.0\p4.pdb
+D:\.NET\p4\p4\obj\Debug\net10.0\p4.genruntimeconfig.cache
+D:\.NET\p4\p4\obj\Debug\net10.0\ref\p4.dll

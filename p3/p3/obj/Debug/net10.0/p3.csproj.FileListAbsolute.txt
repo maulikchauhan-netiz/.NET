@@ -1,0 +1,14 @@
+D:\.NET\p3\p3\bin\Debug\net10.0\p3.exe
+D:\.NET\p3\p3\bin\Debug\net10.0\p3.deps.json
+D:\.NET\p3\p3\bin\Debug\net10.0\p3.runtimeconfig.json
+D:\.NET\p3\p3\bin\Debug\net10.0\p3.dll
+D:\.NET\p3\p3\bin\Debug\net10.0\p3.pdb
+D:\.NET\p3\p3\obj\Debug\net10.0\p3.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\p3\p3\obj\Debug\net10.0\p3.AssemblyInfoInputs.cache
+D:\.NET\p3\p3\obj\Debug\net10.0\p3.AssemblyInfo.cs
+D:\.NET\p3\p3\obj\Debug\net10.0\p3.csproj.CoreCompileInputs.cache
+D:\.NET\p3\p3\obj\Debug\net10.0\p3.dll
+D:\.NET\p3\p3\obj\Debug\net10.0\refint\p3.dll
+D:\.NET\p3\p3\obj\Debug\net10.0\p3.pdb
+D:\.NET\p3\p3\obj\Debug\net10.0\p3.genruntimeconfig.cache
+D:\.NET\p3\p3\obj\Debug\net10.0\ref\p3.dll
