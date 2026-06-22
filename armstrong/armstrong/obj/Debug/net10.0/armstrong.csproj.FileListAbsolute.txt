@@ -1,0 +1,15 @@
+D:\.NET\armstrong\armstrong\bin\Debug\net10.0\armstrong.exe
+D:\.NET\armstrong\armstrong\bin\Debug\net10.0\armstrong.deps.json
+D:\.NET\armstrong\armstrong\bin\Debug\net10.0\armstrong.runtimeconfig.json
+D:\.NET\armstrong\armstrong\bin\Debug\net10.0\armstrong.dll
+D:\.NET\armstrong\armstrong\bin\Debug\net10.0\armstrong.pdb
+D:\.NET\armstrong\armstrong\obj\Debug\net10.0\armstrong.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\armstrong\armstrong\obj\Debug\net10.0\armstrong.AssemblyInfoInputs.cache
+D:\.NET\armstrong\armstrong\obj\Debug\net10.0\armstrong.AssemblyInfo.cs
+D:\.NET\armstrong\armstrong\obj\Debug\net10.0\armstrong.csproj.CoreCompileInputs.cache
+D:\.NET\armstrong\armstrong\obj\Debug\net10.0\armstrong.sourcelink.json
+D:\.NET\armstrong\armstrong\obj\Debug\net10.0\armstrong.dll
+D:\.NET\armstrong\armstrong\obj\Debug\net10.0\refint\armstrong.dll
+D:\.NET\armstrong\armstrong\obj\Debug\net10.0\armstrong.pdb
+D:\.NET\armstrong\armstrong\obj\Debug\net10.0\armstrong.genruntimeconfig.cache
+D:\.NET\armstrong\armstrong\obj\Debug\net10.0\ref\armstrong.dll
