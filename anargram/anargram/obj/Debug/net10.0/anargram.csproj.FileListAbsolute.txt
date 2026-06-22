@@ -1,0 +1,15 @@
+D:\.NET\anargram\anargram\bin\Debug\net10.0\anargram.exe
+D:\.NET\anargram\anargram\bin\Debug\net10.0\anargram.deps.json
+D:\.NET\anargram\anargram\bin\Debug\net10.0\anargram.runtimeconfig.json
+D:\.NET\anargram\anargram\bin\Debug\net10.0\anargram.dll
+D:\.NET\anargram\anargram\bin\Debug\net10.0\anargram.pdb
+D:\.NET\anargram\anargram\obj\Debug\net10.0\anargram.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\anargram\anargram\obj\Debug\net10.0\anargram.AssemblyInfoInputs.cache
+D:\.NET\anargram\anargram\obj\Debug\net10.0\anargram.AssemblyInfo.cs
+D:\.NET\anargram\anargram\obj\Debug\net10.0\anargram.csproj.CoreCompileInputs.cache
+D:\.NET\anargram\anargram\obj\Debug\net10.0\anargram.sourcelink.json
+D:\.NET\anargram\anargram\obj\Debug\net10.0\anargram.dll
+D:\.NET\anargram\anargram\obj\Debug\net10.0\refint\anargram.dll
+D:\.NET\anargram\anargram\obj\Debug\net10.0\anargram.pdb
+D:\.NET\anargram\anargram\obj\Debug\net10.0\anargram.genruntimeconfig.cache
+D:\.NET\anargram\anargram\obj\Debug\net10.0\ref\anargram.dll
