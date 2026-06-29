@@ -1,0 +1,15 @@
+D:\.NET\switchcase\switchcase\bin\Debug\net10.0\switchcase.exe
+D:\.NET\switchcase\switchcase\bin\Debug\net10.0\switchcase.deps.json
+D:\.NET\switchcase\switchcase\bin\Debug\net10.0\switchcase.runtimeconfig.json
+D:\.NET\switchcase\switchcase\bin\Debug\net10.0\switchcase.dll
+D:\.NET\switchcase\switchcase\bin\Debug\net10.0\switchcase.pdb
+D:\.NET\switchcase\switchcase\obj\Debug\net10.0\switchcase.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\switchcase\switchcase\obj\Debug\net10.0\switchcase.AssemblyInfoInputs.cache
+D:\.NET\switchcase\switchcase\obj\Debug\net10.0\switchcase.AssemblyInfo.cs
+D:\.NET\switchcase\switchcase\obj\Debug\net10.0\switchcase.csproj.CoreCompileInputs.cache
+D:\.NET\switchcase\switchcase\obj\Debug\net10.0\switchcase.sourcelink.json
+D:\.NET\switchcase\switchcase\obj\Debug\net10.0\switchcase.dll
+D:\.NET\switchcase\switchcase\obj\Debug\net10.0\refint\switchcase.dll
+D:\.NET\switchcase\switchcase\obj\Debug\net10.0\switchcase.pdb
+D:\.NET\switchcase\switchcase\obj\Debug\net10.0\switchcase.genruntimeconfig.cache
+D:\.NET\switchcase\switchcase\obj\Debug\net10.0\ref\switchcase.dll
