@@ -1,0 +1,15 @@
+D:\.NET\selectcourse\selectcourse\bin\Debug\net10.0\selectcourse.exe
+D:\.NET\selectcourse\selectcourse\bin\Debug\net10.0\selectcourse.deps.json
+D:\.NET\selectcourse\selectcourse\bin\Debug\net10.0\selectcourse.runtimeconfig.json
+D:\.NET\selectcourse\selectcourse\bin\Debug\net10.0\selectcourse.dll
+D:\.NET\selectcourse\selectcourse\bin\Debug\net10.0\selectcourse.pdb
+D:\.NET\selectcourse\selectcourse\obj\Debug\net10.0\selectcourse.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\selectcourse\selectcourse\obj\Debug\net10.0\selectcourse.AssemblyInfoInputs.cache
+D:\.NET\selectcourse\selectcourse\obj\Debug\net10.0\selectcourse.AssemblyInfo.cs
+D:\.NET\selectcourse\selectcourse\obj\Debug\net10.0\selectcourse.csproj.CoreCompileInputs.cache
+D:\.NET\selectcourse\selectcourse\obj\Debug\net10.0\selectcourse.sourcelink.json
+D:\.NET\selectcourse\selectcourse\obj\Debug\net10.0\selectcourse.dll
+D:\.NET\selectcourse\selectcourse\obj\Debug\net10.0\refint\selectcourse.dll
+D:\.NET\selectcourse\selectcourse\obj\Debug\net10.0\selectcourse.pdb
+D:\.NET\selectcourse\selectcourse\obj\Debug\net10.0\selectcourse.genruntimeconfig.cache
+D:\.NET\selectcourse\selectcourse\obj\Debug\net10.0\ref\selectcourse.dll
