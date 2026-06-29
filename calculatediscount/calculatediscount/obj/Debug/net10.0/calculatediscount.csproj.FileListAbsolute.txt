@@ -1,0 +1,15 @@
+D:\.NET\calculatediscount\calculatediscount\bin\Debug\net10.0\calculatediscount.exe
+D:\.NET\calculatediscount\calculatediscount\bin\Debug\net10.0\calculatediscount.deps.json
+D:\.NET\calculatediscount\calculatediscount\bin\Debug\net10.0\calculatediscount.runtimeconfig.json
+D:\.NET\calculatediscount\calculatediscount\bin\Debug\net10.0\calculatediscount.dll
+D:\.NET\calculatediscount\calculatediscount\bin\Debug\net10.0\calculatediscount.pdb
+D:\.NET\calculatediscount\calculatediscount\obj\Debug\net10.0\calculatediscount.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\calculatediscount\calculatediscount\obj\Debug\net10.0\calculatediscount.AssemblyInfoInputs.cache
+D:\.NET\calculatediscount\calculatediscount\obj\Debug\net10.0\calculatediscount.AssemblyInfo.cs
+D:\.NET\calculatediscount\calculatediscount\obj\Debug\net10.0\calculatediscount.csproj.CoreCompileInputs.cache
+D:\.NET\calculatediscount\calculatediscount\obj\Debug\net10.0\calculatediscount.sourcelink.json
+D:\.NET\calculatediscount\calculatediscount\obj\Debug\net10.0\calculatediscount.dll
+D:\.NET\calculatediscount\calculatediscount\obj\Debug\net10.0\refint\calculatediscount.dll
+D:\.NET\calculatediscount\calculatediscount\obj\Debug\net10.0\calculatediscount.pdb
+D:\.NET\calculatediscount\calculatediscount\obj\Debug\net10.0\calculatediscount.genruntimeconfig.cache
+D:\.NET\calculatediscount\calculatediscount\obj\Debug\net10.0\ref\calculatediscount.dll
