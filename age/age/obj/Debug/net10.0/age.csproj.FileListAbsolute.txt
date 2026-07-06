@@ -1,0 +1,15 @@
+D:\.NET\age\age\bin\Debug\net10.0\age.exe
+D:\.NET\age\age\bin\Debug\net10.0\age.deps.json
+D:\.NET\age\age\bin\Debug\net10.0\age.runtimeconfig.json
+D:\.NET\age\age\bin\Debug\net10.0\age.dll
+D:\.NET\age\age\bin\Debug\net10.0\age.pdb
+D:\.NET\age\age\obj\Debug\net10.0\age.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\age\age\obj\Debug\net10.0\age.AssemblyInfoInputs.cache
+D:\.NET\age\age\obj\Debug\net10.0\age.AssemblyInfo.cs
+D:\.NET\age\age\obj\Debug\net10.0\age.csproj.CoreCompileInputs.cache
+D:\.NET\age\age\obj\Debug\net10.0\age.sourcelink.json
+D:\.NET\age\age\obj\Debug\net10.0\age.dll
+D:\.NET\age\age\obj\Debug\net10.0\refint\age.dll
+D:\.NET\age\age\obj\Debug\net10.0\age.pdb
+D:\.NET\age\age\obj\Debug\net10.0\age.genruntimeconfig.cache
+D:\.NET\age\age\obj\Debug\net10.0\ref\age.dll
