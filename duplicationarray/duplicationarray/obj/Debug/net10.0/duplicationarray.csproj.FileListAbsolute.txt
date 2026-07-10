@@ -1,0 +1,15 @@
+D:\.NET\duplicationarray\duplicationarray\bin\Debug\net10.0\duplicationarray.exe
+D:\.NET\duplicationarray\duplicationarray\bin\Debug\net10.0\duplicationarray.deps.json
+D:\.NET\duplicationarray\duplicationarray\bin\Debug\net10.0\duplicationarray.runtimeconfig.json
+D:\.NET\duplicationarray\duplicationarray\bin\Debug\net10.0\duplicationarray.dll
+D:\.NET\duplicationarray\duplicationarray\bin\Debug\net10.0\duplicationarray.pdb
+D:\.NET\duplicationarray\duplicationarray\obj\Debug\net10.0\duplicationarray.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\duplicationarray\duplicationarray\obj\Debug\net10.0\duplicationarray.AssemblyInfoInputs.cache
+D:\.NET\duplicationarray\duplicationarray\obj\Debug\net10.0\duplicationarray.AssemblyInfo.cs
+D:\.NET\duplicationarray\duplicationarray\obj\Debug\net10.0\duplicationarray.csproj.CoreCompileInputs.cache
+D:\.NET\duplicationarray\duplicationarray\obj\Debug\net10.0\duplicationarray.sourcelink.json
+D:\.NET\duplicationarray\duplicationarray\obj\Debug\net10.0\duplicationarray.dll
+D:\.NET\duplicationarray\duplicationarray\obj\Debug\net10.0\refint\duplicationarray.dll
+D:\.NET\duplicationarray\duplicationarray\obj\Debug\net10.0\duplicationarray.pdb
+D:\.NET\duplicationarray\duplicationarray\obj\Debug\net10.0\duplicationarray.genruntimeconfig.cache
+D:\.NET\duplicationarray\duplicationarray\obj\Debug\net10.0\ref\duplicationarray.dll
