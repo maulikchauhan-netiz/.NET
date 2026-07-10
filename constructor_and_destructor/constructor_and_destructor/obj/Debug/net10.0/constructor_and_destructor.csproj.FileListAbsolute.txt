@@ -1,0 +1,15 @@
+D:\.NET\constructor_and_destructor\constructor_and_destructor\bin\Debug\net10.0\constructor_and_destructor.exe
+D:\.NET\constructor_and_destructor\constructor_and_destructor\bin\Debug\net10.0\constructor_and_destructor.deps.json
+D:\.NET\constructor_and_destructor\constructor_and_destructor\bin\Debug\net10.0\constructor_and_destructor.runtimeconfig.json
+D:\.NET\constructor_and_destructor\constructor_and_destructor\bin\Debug\net10.0\constructor_and_destructor.dll
+D:\.NET\constructor_and_destructor\constructor_and_destructor\bin\Debug\net10.0\constructor_and_destructor.pdb
+D:\.NET\constructor_and_destructor\constructor_and_destructor\obj\Debug\net10.0\constructor_and_destructor.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\constructor_and_destructor\constructor_and_destructor\obj\Debug\net10.0\constructor_and_destructor.AssemblyInfoInputs.cache
+D:\.NET\constructor_and_destructor\constructor_and_destructor\obj\Debug\net10.0\constructor_and_destructor.AssemblyInfo.cs
+D:\.NET\constructor_and_destructor\constructor_and_destructor\obj\Debug\net10.0\constructor_and_destructor.csproj.CoreCompileInputs.cache
+D:\.NET\constructor_and_destructor\constructor_and_destructor\obj\Debug\net10.0\constructor_and_destructor.sourcelink.json
+D:\.NET\constructor_and_destructor\constructor_and_destructor\obj\Debug\net10.0\constructor_and_destructor.dll
+D:\.NET\constructor_and_destructor\constructor_and_destructor\obj\Debug\net10.0\refint\constructor_and_destructor.dll
+D:\.NET\constructor_and_destructor\constructor_and_destructor\obj\Debug\net10.0\constructor_and_destructor.pdb
+D:\.NET\constructor_and_destructor\constructor_and_destructor\obj\Debug\net10.0\constructor_and_destructor.genruntimeconfig.cache
+D:\.NET\constructor_and_destructor\constructor_and_destructor\obj\Debug\net10.0\ref\constructor_and_destructor.dll

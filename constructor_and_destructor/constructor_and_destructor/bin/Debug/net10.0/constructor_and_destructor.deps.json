@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "constructor_and_destructor/1.0.0": {
+        "runtime": {
+          "constructor_and_destructor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "constructor_and_destructor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
