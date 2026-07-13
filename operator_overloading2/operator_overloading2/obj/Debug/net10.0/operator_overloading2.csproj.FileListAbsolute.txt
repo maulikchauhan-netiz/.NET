@@ -1,0 +1,15 @@
+D:\.NET\operator_overloading2\operator_overloading2\obj\Debug\net10.0\operator_overloading2.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\operator_overloading2\operator_overloading2\obj\Debug\net10.0\operator_overloading2.AssemblyInfoInputs.cache
+D:\.NET\operator_overloading2\operator_overloading2\obj\Debug\net10.0\operator_overloading2.AssemblyInfo.cs
+D:\.NET\operator_overloading2\operator_overloading2\obj\Debug\net10.0\operator_overloading2.csproj.CoreCompileInputs.cache
+D:\.NET\operator_overloading2\operator_overloading2\obj\Debug\net10.0\operator_overloading2.sourcelink.json
+D:\.NET\operator_overloading2\operator_overloading2\bin\Debug\net10.0\operator_overloading2.exe
+D:\.NET\operator_overloading2\operator_overloading2\bin\Debug\net10.0\operator_overloading2.deps.json
+D:\.NET\operator_overloading2\operator_overloading2\bin\Debug\net10.0\operator_overloading2.runtimeconfig.json
+D:\.NET\operator_overloading2\operator_overloading2\bin\Debug\net10.0\operator_overloading2.dll
+D:\.NET\operator_overloading2\operator_overloading2\bin\Debug\net10.0\operator_overloading2.pdb
+D:\.NET\operator_overloading2\operator_overloading2\obj\Debug\net10.0\operator_overloading2.dll
+D:\.NET\operator_overloading2\operator_overloading2\obj\Debug\net10.0\refint\operator_overloading2.dll
+D:\.NET\operator_overloading2\operator_overloading2\obj\Debug\net10.0\operator_overloading2.pdb
+D:\.NET\operator_overloading2\operator_overloading2\obj\Debug\net10.0\operator_overloading2.genruntimeconfig.cache
+D:\.NET\operator_overloading2\operator_overloading2\obj\Debug\net10.0\ref\operator_overloading2.dll

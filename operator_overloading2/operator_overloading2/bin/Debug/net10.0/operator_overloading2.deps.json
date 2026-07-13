@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "operator_overloading2/1.0.0": {
+        "runtime": {
+          "operator_overloading2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "operator_overloading2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

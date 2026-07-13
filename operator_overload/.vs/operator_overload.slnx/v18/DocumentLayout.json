@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\.NET\\operator_overload\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A82BD098-717A-40FF-917E-ADFF7A9A059F}|operator_overload\\operator_overload.csproj|d:\\.net\\operator_overload\\operator_overload\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A82BD098-717A-40FF-917E-ADFF7A9A059F}|operator_overload\\operator_overload.csproj|solutionrelative:operator_overload\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B7B23C2B-94C0-3443-1AB1-B204165D6635}|operator_overload\\operator_overload.csproj|d:\\.net\\operator_overload\\operator_overload\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7B23C2B-94C0-3443-1AB1-B204165D6635}|operator_overload\\operator_overload.csproj|solutionrelative:operator_overload\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,7 +24,7 @@
               "RelativeDocumentMoniker": "operator_overload\\Program.cs",
               "ToolTip": "D:\\.NET\\operator_overload\\operator_overload\\Program.cs",
               "RelativeToolTip": "operator_overload\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAADwvyMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-13T04:47:44.316Z",
               "EditorCaption": ""
