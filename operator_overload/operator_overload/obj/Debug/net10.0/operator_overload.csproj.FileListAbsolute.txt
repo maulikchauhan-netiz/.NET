@@ -1,0 +1,15 @@
+D:\.NET\operator_overload\operator_overload\bin\Debug\net10.0\operator_overload.exe
+D:\.NET\operator_overload\operator_overload\bin\Debug\net10.0\operator_overload.deps.json
+D:\.NET\operator_overload\operator_overload\bin\Debug\net10.0\operator_overload.runtimeconfig.json
+D:\.NET\operator_overload\operator_overload\bin\Debug\net10.0\operator_overload.dll
+D:\.NET\operator_overload\operator_overload\bin\Debug\net10.0\operator_overload.pdb
+D:\.NET\operator_overload\operator_overload\obj\Debug\net10.0\operator_overload.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\operator_overload\operator_overload\obj\Debug\net10.0\operator_overload.AssemblyInfoInputs.cache
+D:\.NET\operator_overload\operator_overload\obj\Debug\net10.0\operator_overload.AssemblyInfo.cs
+D:\.NET\operator_overload\operator_overload\obj\Debug\net10.0\operator_overload.csproj.CoreCompileInputs.cache
+D:\.NET\operator_overload\operator_overload\obj\Debug\net10.0\operator_overload.sourcelink.json
+D:\.NET\operator_overload\operator_overload\obj\Debug\net10.0\operator_overload.dll
+D:\.NET\operator_overload\operator_overload\obj\Debug\net10.0\refint\operator_overload.dll
+D:\.NET\operator_overload\operator_overload\obj\Debug\net10.0\operator_overload.pdb
+D:\.NET\operator_overload\operator_overload\obj\Debug\net10.0\operator_overload.genruntimeconfig.cache
+D:\.NET\operator_overload\operator_overload\obj\Debug\net10.0\ref\operator_overload.dll
