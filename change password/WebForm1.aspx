@@ -13,12 +13,16 @@
             <br />
             <br />
             Enter old password :-<asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>
+            <asp:RequiredFieldValidator ID="RequiredFieldValidator1" runat="server" ControlToValidate="TextBox1" ErrorMessage="enter your old password" ForeColor="Red"></asp:RequiredFieldValidator>
             <br />
             <br />
             Enter new password :-<asp:TextBox ID="TextBox2" runat="server"></asp:TextBox>
+            <asp:RequiredFieldValidator ID="RequiredFieldValidator2" runat="server" ControlToValidate="TextBox2" ErrorMessage="enter new password" ForeColor="Red"></asp:RequiredFieldValidator>
+            <asp:CompareValidator ID="CompareValidator1" runat="server" ControlToCompare="TextBox1" ControlToValidate="TextBox2" ErrorMessage="password must be different" ForeColor="Red" Operator="NotEqual"></asp:CompareValidator>
             <br />
             <br />
             confirm password :-<asp:TextBox ID="TextBox3" runat="server"></asp:TextBox>
+            <asp:CompareValidator ID="CompareValidator2" runat="server" ControlToCompare="TextBox2" ControlToValidate="TextBox3" ErrorMessage="password notr matched" ForeColor="Red"></asp:CompareValidator>
             <br />
             <br />
             <br />

@@ -5,4 +5,9 @@
 
     End Sub
 
+    Protected Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
+        Label2.Text = "password changed"
+
+
+    End Sub
 End Class
